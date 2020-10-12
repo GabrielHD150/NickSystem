@@ -1,0 +1,6 @@
+name: NickSystem
+version: 1.0
+main: net.latinplay.nicksystem.Main
+commands:
+  nick:
+    description: xdd

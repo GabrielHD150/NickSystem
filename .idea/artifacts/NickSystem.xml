@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="NickSystem">
+    <output-path>$PROJECT_DIR$/out/artifacts/NickSystem</output-path>
+    <root id="archive" name="NickSystem.jar">
+      <element id="module-output" name="LatinNickSystem" />
+    </root>
+  </artifact>
+</component>

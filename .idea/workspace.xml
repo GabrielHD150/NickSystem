@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="NickSystem" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb44bf3b-37d5-4291-b77f-caf42d6808f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="ProjectId" id="1WBRmQjGSsIgtoSMjAlEuYzRWNL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/NetBeansProjects/LatinNickSystem/dist/lib/spigot-1.8.8-R0.1-SNAPSHOT.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Miranda\IdeaProjects\LatinNickSystem\src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb44bf3b-37d5-4291-b77f-caf42d6808f2" name="Default Changelist" comment="" />
+      <created>1578621159991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578621159991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="389" y="111" key="FileChooserDialogImpl" timestamp="1578621337396">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="389" y="111" key="FileChooserDialogImpl/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1578621337396" />
+    <state x="1538" y="0" key="SettingsEditor" timestamp="1584155368114">
+      <screen x="1366" y="0" width="1440" height="860" />
+    </state>
+    <state x="1538" y="0" key="SettingsEditor/0.0.1366.728/1366.0.1440.860@1366.0.1440.860" timestamp="1584155368114" />
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738/1366.0.1440.870@0.0.1366.738" timestamp="1578621345452" />
+  </component>
+</project>
