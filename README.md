@@ -1,0 +1,2 @@
+# NickSystem
+Basic nick system
